@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+  background: blue;
+}
+.menu{
+  width: 600px;
+  float: left;
+  height: 70px;
+}
+
+ul{
+  float: right;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  border: none;
+  text-decoration: none;
+}
+
+ul li{
+  list-style: none;
+  margin-left: 40px;
+  margin-top: 15px;
+  font-size: 20px;
+  
+  
+}
+
+.box{
+  width: 30%;
+  margin: 0;
+ text-decoration-color: aliceblue;
+}
+.section{
+  background-color: aquamarine;
+  padding: 15;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+
+
+
+
+
+
